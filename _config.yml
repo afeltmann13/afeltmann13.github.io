@@ -21,7 +21,8 @@ author: Andrew Feltmann
 
 navbar-links:
   About Me: "aboutme"
-  GIS Work: "GIS Work"
+  GIS Projects: "GISProjects"
+  Data Projects: ""
  # Resources:
    # - Beautiful Jekyll: "https://beautifuljekyll.com"
    # - Learn markdown: "https://www.markdowntutorial.com/"
