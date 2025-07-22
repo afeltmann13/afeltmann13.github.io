@@ -7,7 +7,7 @@ I am a graduate of the University of Central Arkansas, my thesis focused on how 
 
 ### Skills
 - Languages
-- 
+  
 -- Python, R, SQL
   
 - Libraries
