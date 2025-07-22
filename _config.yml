@@ -91,15 +91,16 @@ social-network-links:
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
+  github: true
   linkedin: true
   vk: false
   reddit: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "https://afeltmann13.github.io/"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
