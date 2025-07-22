@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GIS Work
+title: GIS Projects
 ---
 
 This page is dedicated to past and current GIS projects.
