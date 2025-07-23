@@ -21,8 +21,7 @@ author: Andrew Feltmann
 
 navbar-links:
   About Me: "aboutme"
-  GIS Projects: 
-    - "fwexplorer"
+  GIS Projects: "fwexplorer"
   Data Projects: ""
  Resources:
    - Beautiful Jekyll: "https://beautifuljekyll.com"
