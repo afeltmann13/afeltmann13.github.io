@@ -23,6 +23,7 @@ navbar-links:
   About Me: "aboutme"
   GIS Projects: 
     - Freshwater Explorer: "fwexplorer"
+    - Enviroview: "enviroview"
   Data Projects: ""
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
